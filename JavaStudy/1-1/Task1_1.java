@@ -30,7 +30,7 @@ System.out.println(hogeInt);
         System.out.println(hogeString);
 
         // ⑧変数 hogeDouble の値を表示
-System.out.println(hougeDouble);
+System.out.println(hogeDouble);
 
     }
 }
