@@ -34,7 +34,7 @@ int reml=20/6;
 System.out.println(plus);
 System.out.println(minus);
 System.out.println(multiply);
-System.out.println(remi);
+System.out.println(reml);
 System.out.println(train);
     }
 }
